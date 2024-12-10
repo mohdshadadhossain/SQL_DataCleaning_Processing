@@ -1,5 +1,5 @@
 # SQL Data Cleaning: Nashville Housing Dataset
-## This project demonstrates data cleaning techniques applied to the Nashville Housing dataset using SQL. It focuses on processing and enhancing data quality by standardizing formats, addressing missing values, and eliminating redundancies.
+This project demonstrates data cleaning techniques applied to the Nashville Housing dataset using SQL. It focuses on processing and enhancing data quality by standardizing formats, addressing missing values, and eliminating redundancies.
 
 # Dataset:
 
